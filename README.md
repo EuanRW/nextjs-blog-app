@@ -1,3 +1,3 @@
-# nodejs-blog-app
+# nextjs-blog-app
 
-A basic Nodejs blog app developed in order to learn about server-side rendering, static generation, and Nextjs.
+A basic Next.js blog app developed in order to learn about server-side rendering, static generation, and Next.js.

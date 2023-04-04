@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#nodejs-blog-app
+
+A basic Nodejs blog app developed in order to learn about the server-side rendering, static generation, and Nextjs.
